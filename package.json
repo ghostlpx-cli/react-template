@@ -1,0 +1,22 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "private": "<%=private%>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack webpack.prod.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostlpx-cli/react-template.git"
+  },
+  "keywords": [],
+  "author": "<%=author%>",
+  "description": "<%=description%>",
+  "license": "<%=license%>",
+  "bugs": {
+    "url": "https://github.com/ghostlpx-cli/react-template/issues"
+  },
+  "homepage": "https://github.com/ghostlpx-cli/react-template#readme"
+}
